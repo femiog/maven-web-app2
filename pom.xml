@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>bug-patches</finalName>
+		<finalName>bugs-patches</finalName>
 		
 		<plugins>
 			<plugin>
